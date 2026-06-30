@@ -10,7 +10,7 @@ The project demonstrates strong skills in data cleaning, transformation, and vis
 
 ## 🔹 Dataset Summary
 
-* 📦 Total Orders: **5,009**
+* 📦 Total Orders: **9994**
 * 💰 Total Sales: **$2,297,200+**
 * 📈 Total Profit: **$286,397+**
 * 🔢 Total Quantity Sold: **37,873 units**
